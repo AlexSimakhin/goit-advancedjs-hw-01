@@ -15,6 +15,10 @@
   align-items: center;
   justify-content: flex-end;
   gap: 40px;
+
+  &.center {
+    justify-content: center;
+  }
 }
 .nav-link {
   position: relative;
