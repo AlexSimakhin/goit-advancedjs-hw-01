@@ -15,7 +15,8 @@
     flex-direction: column;
     gap: 0.5rem;
 
-    input, textarea {
+    input,
+    textarea {
       height: 40px;
       padding: 0 1rem;
       border-radius: 0.25rem;
@@ -62,18 +63,18 @@ button {
   border: none;
 
   &.blue {
-    background-color: #4E75FF;
+    background-color: #4e75ff;
 
     &:hover {
-      background-color: #6C8CFF;
+      background-color: #6c8cff;
     }
   }
 
   &.red {
-    background-color: #FF4E4E;
+    background-color: #ff4e4e;
 
     &:hover {
-      background-color: #FF7070;
+      background-color: #ff7070;
     }
   }
 

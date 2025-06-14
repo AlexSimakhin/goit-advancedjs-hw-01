@@ -35,7 +35,10 @@ div.sl-overlay {
 }
 
 .sl-wrapper.simple-lightbox {
-  .sl-close, .sl-prev, .sl-next, .sl-counter {
+  .sl-close,
+  .sl-prev,
+  .sl-next,
+  .sl-counter {
     color: #fff;
   }
 }
